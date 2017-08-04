@@ -146,6 +146,14 @@
         Panel2.Enabled = False
         Panel3.Enabled = False
         Question.Text = "What year was the first Super Bowl played?"
-        Answer1.
+        Answer1.Text = "1963"
+        Answer2.Text = "1961"
+        Answer3.Text = "1965"
+        Answer4.Text = "1967"
+        correct = 4
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Panel1.Enabled = False
     End Sub
 End Class
