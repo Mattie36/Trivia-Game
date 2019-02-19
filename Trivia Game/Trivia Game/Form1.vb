@@ -54,8 +54,8 @@
         Panel1.Enabled = True
         Panel2.Enabled = False
         Panel3.Enabled = False
-        Question.Text = "What team has the most SuperBowl wins?"
-        Answer1.Text = "New England Patriots"
+        Question.Text = "Which team has six SuperBowl wins?"
+        Answer1.Text = "New York Giants"
         Answer2.Text = "Seattle Seahawks"
         Answer3.Text = "Pittsburgh Steelers"
         Answer4.Text = "Denver Broncos"
@@ -67,12 +67,12 @@
         Panel1.Enabled = True
         Panel2.Enabled = False
         Panel3.Enabled = False
-        Question.Text = "Who is the starting quarterback for the Miami Dolphins?"
+        Question.Text = "Who is the starting quarterback for the Seattle Seahawks?"
         Answer1.Text = "Ryan Tannehill"
         Answer2.Text = "Ben Rothlisburger"
         Answer3.Text = "Cam Newton"
-        Answer4.Text = "Matt Moore"
-        correct = 1
+        Answer4.Text = "Russell Wilson"
+        correct = 4
     End Sub
 
     Private Sub Q4_Click(sender As Object, e As EventArgs) Handles Q4.Click
@@ -80,7 +80,7 @@
         Panel1.Enabled = True
         Panel2.Enabled = False
         Panel3.Enabled = False
-        Question.Text = "What teams were in Super Bowl 50?"
+        Question.Text = "Which teams were in Super Bowl 50?"
         Answer1.Text = "New England Patriots and Seattle Seahawks"
         Answer2.Text = "New England Patriots and Atlanta Falcons"
         Answer3.Text = "Seattle Seahawks and Denver Broncos"
@@ -106,7 +106,7 @@
         Panel1.Enabled = True
         Panel2.Enabled = False
         Panel3.Enabled = False
-        Question.Text = "What team's fans are called Cheeseheads?"
+        Question.Text = "Which team's fans are called Cheeseheads?"
         Answer1.Text = "Tampa Bay Buccaneers"
         Answer2.Text = "Green Bay Packers"
         Answer3.Text = "San Diego Chargers"
@@ -119,7 +119,7 @@
         Panel1.Enabled = True
         Panel2.Enabled = False
         Panel3.Enabled = False
-        Question.Text = "What team plays at Bank of America Stadium?"
+        Question.Text = "Which team plays at Bank of America Stadium?"
         Answer1.Text = "Carolina Panthers"
         Answer2.Text = "New England Patriots"
         Answer3.Text = "Philadelphia Eagles"

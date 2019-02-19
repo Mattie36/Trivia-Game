@@ -60,7 +60,7 @@ Partial Class Form1
         '
         'Q1
         '
-        Me.Q1.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q1.Location = New System.Drawing.Point(11, 14)
         Me.Q1.Name = "Q1"
         Me.Q1.Size = New System.Drawing.Size(107, 32)
@@ -70,7 +70,7 @@ Partial Class Form1
         '
         'Q2
         '
-        Me.Q2.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q2.Location = New System.Drawing.Point(124, 14)
         Me.Q2.Name = "Q2"
         Me.Q2.Size = New System.Drawing.Size(107, 32)
@@ -80,7 +80,7 @@ Partial Class Form1
         '
         'Q3
         '
-        Me.Q3.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q3.Location = New System.Drawing.Point(237, 14)
         Me.Q3.Name = "Q3"
         Me.Q3.Size = New System.Drawing.Size(107, 32)
@@ -90,7 +90,7 @@ Partial Class Form1
         '
         'Q4
         '
-        Me.Q4.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q4.Location = New System.Drawing.Point(350, 14)
         Me.Q4.Name = "Q4"
         Me.Q4.Size = New System.Drawing.Size(107, 32)
@@ -100,7 +100,7 @@ Partial Class Form1
         '
         'Q5
         '
-        Me.Q5.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q5.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q5.Location = New System.Drawing.Point(463, 14)
         Me.Q5.Name = "Q5"
         Me.Q5.Size = New System.Drawing.Size(107, 32)
@@ -110,7 +110,7 @@ Partial Class Form1
         '
         'Q6
         '
-        Me.Q6.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q6.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q6.Location = New System.Drawing.Point(576, 14)
         Me.Q6.Name = "Q6"
         Me.Q6.Size = New System.Drawing.Size(107, 32)
@@ -120,7 +120,7 @@ Partial Class Form1
         '
         'Q7
         '
-        Me.Q7.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q7.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q7.Location = New System.Drawing.Point(689, 14)
         Me.Q7.Name = "Q7"
         Me.Q7.Size = New System.Drawing.Size(107, 32)
@@ -130,7 +130,7 @@ Partial Class Form1
         '
         'Q8
         '
-        Me.Q8.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q8.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q8.Location = New System.Drawing.Point(802, 14)
         Me.Q8.Name = "Q8"
         Me.Q8.Size = New System.Drawing.Size(107, 32)
@@ -140,7 +140,7 @@ Partial Class Form1
         '
         'Q9
         '
-        Me.Q9.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q9.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q9.Location = New System.Drawing.Point(915, 14)
         Me.Q9.Name = "Q9"
         Me.Q9.Size = New System.Drawing.Size(107, 32)
@@ -150,7 +150,7 @@ Partial Class Form1
         '
         'Q10
         '
-        Me.Q10.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q10.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q10.Location = New System.Drawing.Point(1027, 14)
         Me.Q10.Name = "Q10"
         Me.Q10.Size = New System.Drawing.Size(107, 32)
@@ -160,7 +160,7 @@ Partial Class Form1
         '
         'Q11
         '
-        Me.Q11.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q11.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q11.Location = New System.Drawing.Point(11, 29)
         Me.Q11.Name = "Q11"
         Me.Q11.Size = New System.Drawing.Size(107, 32)
@@ -170,7 +170,7 @@ Partial Class Form1
         '
         'Q12
         '
-        Me.Q12.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q12.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q12.Location = New System.Drawing.Point(124, 29)
         Me.Q12.Name = "Q12"
         Me.Q12.Size = New System.Drawing.Size(107, 32)
@@ -180,7 +180,7 @@ Partial Class Form1
         '
         'Q13
         '
-        Me.Q13.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q13.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q13.Location = New System.Drawing.Point(237, 29)
         Me.Q13.Name = "Q13"
         Me.Q13.Size = New System.Drawing.Size(107, 32)
@@ -190,7 +190,7 @@ Partial Class Form1
         '
         'Q14
         '
-        Me.Q14.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q14.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q14.Location = New System.Drawing.Point(350, 29)
         Me.Q14.Name = "Q14"
         Me.Q14.Size = New System.Drawing.Size(107, 32)
@@ -200,7 +200,7 @@ Partial Class Form1
         '
         'Q15
         '
-        Me.Q15.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q15.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q15.Location = New System.Drawing.Point(463, 29)
         Me.Q15.Name = "Q15"
         Me.Q15.Size = New System.Drawing.Size(107, 32)
@@ -210,7 +210,7 @@ Partial Class Form1
         '
         'Q16
         '
-        Me.Q16.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q16.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q16.Location = New System.Drawing.Point(576, 29)
         Me.Q16.Name = "Q16"
         Me.Q16.Size = New System.Drawing.Size(107, 32)
@@ -220,7 +220,7 @@ Partial Class Form1
         '
         'Q17
         '
-        Me.Q17.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q17.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q17.Location = New System.Drawing.Point(689, 29)
         Me.Q17.Name = "Q17"
         Me.Q17.Size = New System.Drawing.Size(107, 32)
@@ -230,7 +230,7 @@ Partial Class Form1
         '
         'Q18
         '
-        Me.Q18.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q18.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q18.Location = New System.Drawing.Point(802, 29)
         Me.Q18.Name = "Q18"
         Me.Q18.Size = New System.Drawing.Size(107, 32)
@@ -240,7 +240,7 @@ Partial Class Form1
         '
         'Q19
         '
-        Me.Q19.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q19.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q19.Location = New System.Drawing.Point(915, 29)
         Me.Q19.Name = "Q19"
         Me.Q19.Size = New System.Drawing.Size(107, 32)
@@ -250,7 +250,7 @@ Partial Class Form1
         '
         'Q20
         '
-        Me.Q20.Font = New System.Drawing.Font("Mistral", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Q20.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Q20.Location = New System.Drawing.Point(1027, 29)
         Me.Q20.Name = "Q20"
         Me.Q20.Size = New System.Drawing.Size(107, 32)
@@ -271,10 +271,10 @@ Partial Class Form1
         'Answer1
         '
         Me.Answer1.AutoSize = True
-        Me.Answer1.Font = New System.Drawing.Font("Modern No. 20", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Answer1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Answer1.Location = New System.Drawing.Point(3, 3)
         Me.Answer1.Name = "Answer1"
-        Me.Answer1.Size = New System.Drawing.Size(131, 21)
+        Me.Answer1.Size = New System.Drawing.Size(143, 22)
         Me.Answer1.TabIndex = 21
         Me.Answer1.TabStop = True
         Me.Answer1.Text = "Select a Question"
@@ -294,7 +294,7 @@ Partial Class Form1
         '
         'Submit
         '
-        Me.Submit.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Submit.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Submit.Location = New System.Drawing.Point(3, 130)
         Me.Submit.Name = "Submit"
         Me.Submit.Size = New System.Drawing.Size(124, 32)
@@ -305,10 +305,10 @@ Partial Class Form1
         'Answer4
         '
         Me.Answer4.AutoSize = True
-        Me.Answer4.Font = New System.Drawing.Font("Modern No. 20", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Answer4.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Answer4.Location = New System.Drawing.Point(3, 84)
         Me.Answer4.Name = "Answer4"
-        Me.Answer4.Size = New System.Drawing.Size(131, 21)
+        Me.Answer4.Size = New System.Drawing.Size(143, 22)
         Me.Answer4.TabIndex = 23
         Me.Answer4.TabStop = True
         Me.Answer4.Text = "Select a Question"
@@ -317,10 +317,10 @@ Partial Class Form1
         'Answer3
         '
         Me.Answer3.AutoSize = True
-        Me.Answer3.Font = New System.Drawing.Font("Modern No. 20", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Answer3.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Answer3.Location = New System.Drawing.Point(3, 57)
         Me.Answer3.Name = "Answer3"
-        Me.Answer3.Size = New System.Drawing.Size(131, 21)
+        Me.Answer3.Size = New System.Drawing.Size(143, 22)
         Me.Answer3.TabIndex = 23
         Me.Answer3.TabStop = True
         Me.Answer3.Text = "Select a Question"
@@ -329,10 +329,10 @@ Partial Class Form1
         'Answer2
         '
         Me.Answer2.AutoSize = True
-        Me.Answer2.Font = New System.Drawing.Font("Modern No. 20", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Answer2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Answer2.Location = New System.Drawing.Point(3, 30)
         Me.Answer2.Name = "Answer2"
-        Me.Answer2.Size = New System.Drawing.Size(131, 21)
+        Me.Answer2.Size = New System.Drawing.Size(143, 22)
         Me.Answer2.TabIndex = 22
         Me.Answer2.TabStop = True
         Me.Answer2.Text = "Select a Question"
@@ -396,7 +396,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1139, 482)
+        Me.ClientSize = New System.Drawing.Size(1139, 483)
         Me.Controls.Add(Me.Panel3)
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.QuestionsAnswered)

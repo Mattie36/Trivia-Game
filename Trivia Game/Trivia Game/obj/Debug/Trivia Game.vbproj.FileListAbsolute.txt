@@ -20,3 +20,14 @@ C:\Users\CCLC\Documents\Matthew\GitHub\Trivia-Game\Trivia Game\Trivia Game\bin\D
 C:\Users\CCLC\Documents\Matthew\GitHub\Trivia-Game\Trivia Game\Trivia Game\bin\Debug\Trivia Game.exe
 C:\Users\CCLC\Documents\Matthew\GitHub\Trivia-Game\Trivia Game\Trivia Game\bin\Debug\Trivia Game.pdb
 C:\Users\CCLC\Documents\Matthew\GitHub\Trivia-Game\Trivia Game\Trivia Game\bin\Debug\Trivia Game.xml
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\bin\Debug\Trivia Game.exe.config
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\bin\Debug\Trivia Game.exe
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\bin\Debug\Trivia Game.pdb
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\bin\Debug\Trivia Game.xml
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbprojResolveAssemblyReference.cache
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Form1.resources
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Resources.resources
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbproj.GenerateResource.Cache
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\obj\Debug\Trivia Game.exe
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\obj\Debug\Trivia Game.xml
+C:\Users\Esaia\Documents\VB Projects\Trivia-Game\Trivia Game\Trivia Game\obj\Debug\Trivia Game.pdb
